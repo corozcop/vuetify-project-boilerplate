@@ -1,6 +1,6 @@
-# motel-uno
+# Web Application
 
-> Motel SM
+> Web Application
 
 ## Build Setup
 
